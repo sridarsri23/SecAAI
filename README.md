@@ -1,4 +1,4 @@
-# **SecAAI: AI driven Decurity Analyst**
+# **SecAAI: AI driven Security Analyst**
 
 ![SecAAI Logo](seccaai.png)
 
