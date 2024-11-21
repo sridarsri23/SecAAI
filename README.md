@@ -27,7 +27,6 @@ SecAAI is a revolutionary conversational virtual security analyst powered by gen
 
 ---
 
-## **Files in the Repository**
 
 ## Files in the Repository
 
